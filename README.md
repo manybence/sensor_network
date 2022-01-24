@@ -1,6 +1,11 @@
-Repository for the course 02223: Model Based Systems Engineering
+Repository for the project: 
+Model Based Systems Engineering - Simulation of CO2 sensor networks
 
-Simulation of co2 generation inside a 3d city environment and implementation of a sensor system that effectively (accuracy + low cost) measures the the co2 levels.
+The project is built of 2 main parts:
+Simulation of pollution dynamics in a realistic city environment (based on Copenhagen data).
+Simulation of differently implementated CO2 sensor networks that are aiming for effectively (accuracy + low cost) measuring the pollution level.
+
+The goal of the project is to find the best implementation strategy that fits the customer's needs.
 
 How to run:
 1. Clone the repository
@@ -13,3 +18,11 @@ How to run:
      * Remember to always click on the corresponding button of a parameter, after you set its desired value.
      * When you are done, just press `THE PARAMETERS ARE SET !!` and then you are ready to start the simulation with the desired parameters.
    * Press `QUIT` if you want to exit the simulation and close all the windows.
+
+Thanks for my teammates for their great contribution to the project!
+They were:
+Vicente Bartual Ferran
+Nicolo Sponziello
+Panagiotis Grigoriadis
+Dimosthenis Angelis
+Kostantinos Spyrikos
